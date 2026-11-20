@@ -1,6 +1,6 @@
 // EmailJS setup: replace these three values with the IDs from your EmailJS account.
 window.EMAILJS_CONFIG = {
-  publicKey: "-_S-6BaeAt0-jXsxL",
-  serviceId: "service_q17qeum",
-  templateId: "template_09mttc7",
+  publicKey: "aavDoW_bJ4D5aSMN2",
+  serviceId: "service_lqrsqru",
+  templateId: "template_m1grd7c",
 };
