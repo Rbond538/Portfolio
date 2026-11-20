@@ -1222,3 +1222,11 @@ svg {
         transform: none
     }
 }
+html {
+    scroll-behavior: smooth
+}
+
+section[id],
+.home-hero[id] {
+    scroll-margin-top: 72px
+}
